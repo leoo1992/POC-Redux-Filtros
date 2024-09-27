@@ -76,6 +76,7 @@ tr:nth-child(even) {
 
 input[type="number"] {
   display: block;
+  padding: .5rem;
 }
 
 form {
